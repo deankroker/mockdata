@@ -1,6 +1,11 @@
 {
   "Account": {
-    "id": 1
+    "id": {
+      "int": {
+        "min": 0,
+        "max": 1000
+      }
+    },
     "fullName": {
       "loremWords": {
         "minLength": 5,
