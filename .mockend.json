@@ -1,8 +1,6 @@
 {
   "Account": {
-    "_": {
-      "items": 1
-    },
+    "id": 1
     "fullName": {
       "loremWords": {
         "minLength": 5,
